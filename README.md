@@ -10,7 +10,7 @@ Este es mi portafolio donde presento algunos de mis trabajos en desarrollo front
 
 ## Ver ejemplo en vivo
 
-* []() settings/poner o no poner la imagen y luego ir a pages
+* [https://dondiegopro.github.io/portafolio/](https://dondiegopro.github.io/portafolio/)
   
 ## Contratacion
 Si me quieres contratar puedes escribirme a jbodiegosierra@gmail.com
