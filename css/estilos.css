@@ -301,6 +301,7 @@ footer .copy{
    
    .principal .titulo h1{
         text-shadow: red -4px 0, cyan 4px 0;
+    }
 
     
     .jobs{
@@ -308,7 +309,7 @@ footer .copy{
         gap:20px;
 
     }
-      .jobs .links{
+    .jobs .links{
         opacity: 1;
     }
     
