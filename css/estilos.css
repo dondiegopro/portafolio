@@ -298,12 +298,18 @@ footer .copy{
         flex-wrap: wrap; 
         padding-top: 50px;
     }
+   
+   .principal .titulo h1{
+        text-shadow: red -4px 0, cyan 4px 0;
 
     
     .jobs{
         padding:20px;
         gap:20px;
 
+    }
+      .jobs .links{
+        opacity: 1;
     }
     
 }
